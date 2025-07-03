@@ -57,7 +57,3 @@ simon-says-game/
    
 2.  ```bash
      git clone https://github.com/ShubhamV-Codes/Simon-SaysGame.git
-   
-  
-
- 
