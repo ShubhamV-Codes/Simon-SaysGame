@@ -56,7 +56,8 @@ simon-says-game/
 1. Clone the repository:
    
 2.  ```bash
+     git clone https://github.com/ShubhamV-Codes/Simon-SaysGame.git
    
-   git clone https://github.com/ShubhamV-Codes/Simon-SaysGame.git
+  
 
  
